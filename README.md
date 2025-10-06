@@ -1,19 +1,15 @@
 <h1 align="center">Hi there, I'm Aleks 👋</h1>
-<h3 align="center">Junior Software Developer</h3>
 
 ## 🔭 About Me
-- 🌱 I’m currently learning: Python, JavaScript, AI
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about coding, AI, or tech
+I'm a Junior Software Developer based in **Sofia, Bulgaria 🇧🇬**, with experience in the **fintech industry**.  
+I enjoy working on **Python-based back-end web development** and **data-driven systems**, exploring **machine learning**, and continuously expanding my technical toolkit.
 - 📫 Reach me at LinkedIn: [Aleks Dimova](https://www.linkedin.com/in/aleks-dimova-883695100/)
-<!---
-## 🛠️ Skills
-- **Languages:** Python, SQL
-- **Frameworks:** FastAPI, Django
-- **Tools:** Git, Docker, VS Code, 
---->
-<br />
 
+<!-- 
+## 🧠 Currently Learning  
+- JavaScript & Modern Web Development  
+- Data Engineering & Machine Learning Fundamentals  
+--->
 ## 🛠️ Languages and Tools
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
